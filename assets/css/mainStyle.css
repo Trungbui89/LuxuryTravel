@@ -145,6 +145,7 @@ html {
 
 #content {
     background-color: #fff0e7;
+    overflow: hidden;
 }
 
 #header a {
