@@ -19,6 +19,10 @@ html {
     font-family: gt-walsheim-light, sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+  }
+
 @keyframes barFadeIn {
     from {
         opacity: 0;
@@ -145,7 +149,6 @@ html {
 
 #content {
     background-color: #fff0e7;
-    overflow: hidden;
 }
 
 #header a {
